@@ -23,7 +23,7 @@ This project implements a simple game where users can upload an image, which is 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/describe-and-generate.git
+   git clone git clone https://github.com/Absorber97/AI-Image-Reimagine.git
    cd describe-and-generate
    ```
 
