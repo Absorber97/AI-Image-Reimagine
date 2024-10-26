@@ -2,6 +2,8 @@
 
 This project implements a simple game where users can upload an image, which is then captioned by an AI model. The generated caption is then used to create a new image using another AI model.
 
+![Image Reimagine](https://github.com/Absorber97/AI-Image-Reimagine/blob/main/Image%20Reimagine.png)
+
 
 ## 🧩 Key Components
 
