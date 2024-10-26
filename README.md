@@ -4,6 +4,11 @@ This project implements a simple game where users can upload an image, which is 
 
 ![Image Reimagine](https://github.com/Absorber97/AI-Image-Reimagine/blob/main/Image%20Reimagine.png)
 
+## 🎁 Other Resources
+
+1. Google Slides: https://docs.google.com/presentation/d/1AYkgdoWFuYA1eM2a4dd32CHg2H90MP_z5jQuEXOAzRE/edit?usp=sharing 
+2. Google Slides (PDF): https://drive.google.com/file/d/1jOaqMEv0fWbbv9q1Wau-iujEXcEMtdAm/view?usp=sharing 
+
 
 ## 🧩 Key Components
 
